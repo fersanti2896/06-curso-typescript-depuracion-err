@@ -11,3 +11,4 @@
     myFunction = saveTheWorld;
     console.log(myFunction());
 })();
+//# sourceMappingURL=type-function.js.map

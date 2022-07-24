@@ -12,3 +12,4 @@
     const heroName = returnName(hero);
     console.log({ heroName });
 })();
+//# sourceMappingURL=functions.js.map

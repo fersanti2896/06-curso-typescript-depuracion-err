@@ -1,18 +1,14 @@
 "use strict";
 (() => {
-    // Tipos
     const batman = 'Bruce';
     const superman = 'Clark';
     const existe = false;
     console.log({ batman, superman, existe });
-    // Tuplas
     const parejaHeroes = [batman, superman];
     const villano = ['Lex Lutor', 5, true];
     console.log({ parejaHeroes, villano });
-    // Arreglos
     const aliados = ['Mujer Maravilla', 'Acuaman', 'San', 'Flash'];
     console.log({ aliados });
-    //Enumeraciones
     let SuperHero;
     (function (SuperHero) {
         SuperHero[SuperHero["aquaman"] = 0] = "aquaman";
@@ -25,7 +21,6 @@
     const fuerzaBatman = SuperHero.batman;
     const fuerzaAquaman = SuperHero.aquaman;
     console.log({ fuerzaFlash, fuerzaSuperman, fuerzaBatman, fuerzaAquaman });
-    // Retorno de funciones
     function activar_batiseñal() {
         return 'activada';
     }
@@ -34,7 +29,6 @@
     }
     console.log(activar_batiseñal());
     pedir_ayuda();
-    // Aserciones de Tipo
     const poder = '100';
     const largoDelPoder = poder.length;
     console.log({ largoDelPoder });
@@ -47,3 +41,4 @@
     })(enumeracion || (enumeracion = {}));
     console.log({ enumeracion });
 })();
+//# sourceMappingURL=tarea.js.map

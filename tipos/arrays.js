@@ -9,3 +9,4 @@
     const villian = ['Dormammu', 'Thanos', 'Kang el Conquistador'];
     villian.forEach(v => console.log(v.toUpperCase()));
 })();
+//# sourceMappingURL=arrays.js.map

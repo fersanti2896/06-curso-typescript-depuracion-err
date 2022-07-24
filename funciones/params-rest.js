@@ -6,3 +6,4 @@
     const hero = fullName('Tony', 'Stark', 'IroMan');
     console.log(hero);
 })();
+//# sourceMappingURL=params-rest.js.map

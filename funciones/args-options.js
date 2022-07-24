@@ -16,3 +16,4 @@
     const result = suma(1);
     console.log(result);
 })();
+//# sourceMappingURL=args-options.js.map

@@ -11,3 +11,4 @@
     const prueba = frase();
     console.log(prueba);
 })();
+//# sourceMappingURL=args-required.js.map

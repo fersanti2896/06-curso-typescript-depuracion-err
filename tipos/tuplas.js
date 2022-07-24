@@ -6,3 +6,4 @@
     dbz[2] = true;
     console.log(dbz);
 })();
+//# sourceMappingURL=tuplas.js.map

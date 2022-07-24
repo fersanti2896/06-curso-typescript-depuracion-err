@@ -30,3 +30,4 @@
     };
     console.log(thor);
 })();
+//# sourceMappingURL=objects.js.map

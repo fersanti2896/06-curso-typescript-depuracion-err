@@ -10,3 +10,4 @@
     console.log(AudioLevel);
     console.log(currentAudio);
 })();
+//# sourceMappingURL=enums.js.map

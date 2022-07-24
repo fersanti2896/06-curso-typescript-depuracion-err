@@ -11,3 +11,4 @@
     const b = callVegeta();
     console.log(b);
 })();
+//# sourceMappingURL=void.js.map

@@ -8,3 +8,4 @@
     console.log(linternaVerde.toUpperCase());
     console.log(((_a = volcanNegro[9]) === null || _a === void 0 ? void 0 : _a.toLowerCase()) || 'No está presente');
 })();
+//# sourceMappingURL=strings.js.map

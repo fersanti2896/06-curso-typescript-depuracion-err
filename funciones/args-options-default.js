@@ -7,3 +7,4 @@
     const name = fullName('Fernando', 'Santiago');
     console.log(name);
 })();
+//# sourceMappingURL=args-options-default.js.map

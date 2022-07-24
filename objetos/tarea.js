@@ -42,10 +42,10 @@
         lider: true,
         miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"],
     };
-    // Mystique, debe poder ser cualquiera de esos dos mutantes (charles o apocalipsis)
     let mystique;
     mystique = charles;
     console.log(typeof mystique, mystique);
     mystique = apocalipsis;
     console.log(typeof mystique, mystique);
 })();
+//# sourceMappingURL=tarea.js.map
